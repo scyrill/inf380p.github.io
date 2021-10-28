@@ -5,8 +5,7 @@ title: "Steph's Trinket Posts and Reflections"
 ---
 
 Trinket from the textbook:
-<iframe src="https://trinket.io/embed/python/509cf6926b" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-
+<iframe src="https://trinket.io/embed/python/ea0f495ab4" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Trinket that I made:
 <iframe src="https://trinket.io/embed/python/509cf6926b" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
