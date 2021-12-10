@@ -269,10 +269,15 @@ Having created all of these, the next step was to return back to the user prompt
     \n 6  = Discharge Diagnosis
     \n 7  = Word Frequencies
     \n 8  = Patient Notes
+    \n 9  = Help
     \n """)
   
   if user_wants == '7':
     word_frequencies(notes)
+  elif user_wants == '9':
+    print("""To understand this program, input a number that corresponds with the information that you would want to know. 
+    \n If you have selected #7, please input the a number that you want to start on. You will be prompted to enter another number, which will be the ending point, for this just input another number to return results.""")
+
   elif user_wants == '8':
     patient_info = input("""What would you like to know? 
     \n 1 = Number of Notes
